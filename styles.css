@@ -1,0 +1,175 @@
+/* websites used: flaticon, colorhunt, https://crop-circle.imageonline.co/ , giphy*/
+
+
+body {
+    margin: 0;
+    text-align: center;
+}
+
+h1 {
+    width: 30%;
+    margin: 50px auto 0 auto;
+    font-family: 'Sacramento', cursive;
+    font-size: 4.5rem;
+    color: #91D8E4;
+}
+
+h2 {
+    font-family: 'Merriweather', serif;
+    font-size: 1.5rem;
+    color: #91D8E4;
+    font-weight: normal;
+}
+
+h3 {
+    color: #46C2CB;
+}
+
+hr {
+    border-color: #EAF6F6;
+    border-width: 7px;
+    border-style: dotted none none;
+    width: 5%;
+    margin: 50px auto 50px auto;
+
+}
+.p {
+    
+}
+div {
+    
+}
+
+.top-container
+{
+    position: relative;
+    padding-top: 100px;
+    background-color: #EAFDFC;
+}
+
+.top-cloud {
+    width: 100px;
+    position: absolute;
+    right: 300px;
+    top: 50px;
+}
+
+.bottom-cloud {
+    width: 100px;
+    position: absolute;
+    left: 200px;
+}
+
+.pro {
+    text-decoration: underline;
+
+}
+
+.middle-container {
+    text-align: center;
+    padding-bottom: 7%;
+
+    
+}
+
+.woman {
+    margin-top: 70px;
+    height:100px;
+}
+
+.intro  {
+    width: 50%;
+    margin: auto 300px auto 300px;
+    text-align: center;
+    line-height: 1.5;
+}
+
+.skill-row {
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    line-height: 1.5;
+
+}
+
+.computer {
+    width: 25%;
+    float: left;
+    padding-right: 20px;
+}
+
+/* clears the padding or margin from left side */
+/* .comp-text {
+    clear: left;
+} */
+
+.chillies {
+    width: 25%;
+    float: right;
+    padding-left: 20x;
+}
+
+/* .chi-text {
+    clear: right;
+} */
+
+.bottom-container {
+   background-color: #66BFBF ;
+   padding: 40px 0 20px;
+   margin: 0;
+}
+
+.footer-link {
+    color: #11999E;
+    
+
+}
+
+.contact {
+    margin: 30px auto 70px auto;
+}
+
+a {
+    margin: 10px 20px;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #EAF6F6;
+}
+    
+.btn {
+    margin-bottom: 30%;
+    background:  #11cdd4;
+    background-image: -webkit-linear-gradient(top,  #11cdd4, #11999e);
+    background-image: -moz-linear-gradient(top,  #11cdd4, #11999e);
+    background-image: -ms-linear-gradient(top,  #11cdd4, #11999e);
+    background-image: -o-linear-gradient(top,  #11cdd4, #11999e);
+    background-image: linear-gradient(to bottom,  #11cdd4, #11999e);
+    -webkit-border-radius: 8;
+    -moz-border-radius: 8;
+    border-radius: 8px;
+    font-family: Arial;
+    color: white;
+    font-size: 16px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+
+
+  }
+  
+  .btn:hover {
+    background: #30e3cb;
+    background-image: -webkit-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: -moz-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: -ms-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: -o-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
+    text-decoration: none;
+  }
+ .name {
+    color: #EAF6F6;
+    font-size: 15px;
+    padding-top: 20px;
+    padding-bottom: 15px;
+ }
